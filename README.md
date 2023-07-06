@@ -1,1 +1,2 @@
 # Tableau_JavaScript_API
+This project was completed for The Canadian Partnership for Women and Children's Health (CanWaCH) by Blackcat Informatics® Inc. and was written by Patrick Audley with support by Fallyn Thompson. 
